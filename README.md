@@ -11,7 +11,6 @@
 Goal of this repository: To apply the approach of the concept graph on CALVIN environment.
 
 **Introduction to the CALVIN:**
-
 The focus is on the challenges and goals associated with integrating general-purpose robots into human environments. The key emphasis is on the robots' ability to comprehend and act upon human language, translating it into meaningful perceptions and actions necessary for various daily tasks. To achieve this, the authors introduce CALVIN (Composing Actions from Language and Vision), an open-source simulated benchmark designed to facilitate the learning of long-horizon, language-conditioned tasks by robotic agents.
 The primary objective of CALVIN is to enable the development of agents capable of solving complex robotic manipulation tasks over extended periods, relying solely on onboard sensors and instructions provided in human language. The tasks presented in CALVIN are described as more intricate compared to existing vision-and-language datasets, involving greater sequence length, a broader action space, and more sophisticated language specifications. The benchmark also supports flexible configuration of sensor suites.
 
@@ -31,7 +30,7 @@ Download the dataset based on the space and task.
 
 #  Visualization of the CALVIN data
 
-
+**Code is present in the 
 
 ```
 actions
