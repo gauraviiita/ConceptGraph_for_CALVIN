@@ -15,7 +15,7 @@ The focus is on the challenges and goals associated with integrating general-pur
 
 
 **Introduction to Concept Graph:**
-The Concept Graph shows the imperative for robots to possess a semantically rich 3D representation of the world for efficient task-driven perception and planning. Current approaches using large vision-language models face challenges in scalability and lack of semantic spatial relationships, crucial for effective planning in larger environments. To address these issues, the authors introduce ConceptGraphs, a graph-structured representation for 3D scenes. Constructed by integrating outputs from 2D foundation models through multiview association, ConceptGraphs provide a generalized representation extending to novel semantic classes without extensive data collection or model fine-tuning. The utility of ConceptGraphs is demonstrated through diverse downstream planning tasks specified via abstract language prompts, showcasing their potential to enhance robotic systems' effectiveness in navigating dynamic 3D environments.
+The Concept Graph shows the imperative for robots to possess a semantically rich 3D representation of the world for efficient task-driven perception and planning.  The authors introduce ConceptGraphs, a graph-structured representation for 3D scenes. Constructed by integrating outputs from 2D foundation models through multiview association, ConceptGraphs provide a generalized representation extending to novel semantic classes without extensive data collection or model fine-tuning. 
 
 
 
