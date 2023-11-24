@@ -282,7 +282,10 @@ depth_tactile
 
 ```
 
-# Step 2: Convert the array data  into image data
+# Step 2: Convert the array data  into images
+
+Jupyter file save_images.ipynb contains  the code to convert and store the array into images.
 
 
+To be continued....
 
