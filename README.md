@@ -28,9 +28,11 @@ Download the dataset based on the space and task.
 4. [Small debug dataset](http://calvin.cs.uni-freiburg.de/dataset/calvin_debug_dataset.zip) (1.3 GB)
    
 
-#  Visualization of the CALVIN data
+#  Step 1: Visualization of the CALVIN data
 
+Code to visualize the CALVIN  data is present in Code folder with the name of Visualize_data.ipynb.
 
+The CALVIN data is stored in .npz file. Each file contains static and gripper camera RGB-D images in form of array.    
 
 ```
 actions
@@ -279,3 +281,8 @@ depth_tactile
 
 
 ```
+
+# Step 2: Convert the array data  into image data
+
+
+
